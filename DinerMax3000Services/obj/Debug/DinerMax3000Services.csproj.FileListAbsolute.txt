@@ -1,0 +1,8 @@
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll.config
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.csprojResolveAssemblyReference.cache
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.pdb

@@ -1,0 +1,17 @@
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe.config
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\App.g.cs
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.cache
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.lref
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\MainWindow.baml
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.g.resources
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000.WPFClient.Properties.Resources.resources
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.csproj.GenerateResource.Cache
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.exe
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000WPFClient\obj\Debug\GeneratedInternalTypeHelper.g.cs

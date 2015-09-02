@@ -1,0 +1,8 @@
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.dll
+C:\Users\gbartlow\Desktop\dotNet\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.pdb
